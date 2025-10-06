@@ -75,16 +75,3 @@ When I'm not coding I play games, sketch, and work on my on-stage charisma ✨
 
 ---
 
-# 📝 How to use this README
-1. Create a repository **with the same name as your GitHub username** (e.g. `7m3lsh7`).  
-2. Add this `README.md` to the repository root and commit. GitHub will show it on your profile.  
-3. Optional: tweak badges and links to point to live demos or specific repos.
-
----
-
-If you want, I can:
-- convert the GIF to a small Lottie animation and show embedding tips,  
-- generate clickable project cards with screenshots,  
-- or produce a dark-themed SVG header to match your portfolio style.
-
-Tell me which extra you want first and I’ll generate it (or paste the final updated README into your repo). 🚀
