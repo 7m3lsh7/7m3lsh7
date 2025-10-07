@@ -1,70 +1,101 @@
-# 👋 Hello, I’m **Felopateer Remon Samy**  
-> *vagabond* — Full-Stack Developer | ASP.NET · C# · React · Strapi  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="Coding Animation" width="180"/>
-</div>
+<!-- Typing SVG Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Felopater+Remon+Samy+👋;Software+Development+Engineer+%7C+Vagabond+💻;Passionate+about+Web+%26+System+Architecture;Turning+Ideas+Into+Powerful+Code!+🔥">
+</p>
 
 ---
 
-## 🧾 About Me  
-From Cairo, I build web experiences that are fast, intuitive, and delight users.  
-I’m passionate about both backend architecture (C#, ASP.NET, SQL) and frontend dynamics (React, animation).  
-I sketch interfaces, play games, and aim to bring charisma into tech.
+## 🧠 About Me  
 
-- 🌱 Continuously learning new stacks and patterns  
-- 🎯 My motto: *Write code that tells a story*  
-- 🏠 Based in Egypt, working remotely / hybrid  
+I'm **Felopater Remon Samy**, also known as **Vagabond**, a passionate **Software Development Engineer** from **Cairo, Egypt 🇪🇬**.  
+I specialize in crafting **secure, scalable web applications** with a deep love for **problem-solving** and **creative design**.  
+My mission? To build tech that **inspires**, **helps others**, and **looks amazing doing it**. 🚀  
 
----
-
-## 🔭 What I'm Working On
-
-| Project | Description | Link |
-|---|---|---|
-| **PharmaFlow** | Medicine tracking & verification system using QR, blockchain & supply chain. | [Repo / Demo](https://7m3lsh7.github.io/Portfolio-/index.html#pharmaflow) |
-| **ChatLink** | Real-time chat app with files, secure auth, live messaging. | [Repo / Demo](https://7m3lsh7.github.io/Portfolio-/index.html#chatlink) |
-| **TskHarmony** | Task & project management tool for streamlined workflows. | [Repo / Demo](https://7m3lsh7.github.io/Portfolio-/index.html#tskharmony) |
-
-⚡ In each project, I learned: object design, performance tuning, state management, micro-services patterns.
+💬 *"Code with passion, design with soul."*  
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠️ Tech Arsenal  
 
-<div align="center">
-  <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt=".NET"></a>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"></a>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js"></a>
-  <a href="https://strapi.io/"><img src="https://img.shields.io/badge/Strapi-1E90FF?logo=strapi&logoColor=white&style=for-the-badge" alt="Strapi"></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript"></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js"></a>
-  <a href="https://www.microsoft.com/en-us/sql-server/"><img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" alt="SQLServer"></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"></a>
-</div>
+### 🧩 Languages  
+`C#` • `C++` • `JavaScript` • `HTML` • `CSS` • `SQL`  
 
----
+### ⚙️ Frameworks & Libraries  
+`ASP.NET Core MVC` • `React.js` • `Angular` • `Bootstrap` • `Strapi`  
 
-## 🎮 Interests & Personality
+### 💾 Databases & Tools  
+`Microsoft SQL Server` • `MySQL` • `Git` • `GitHub` • `Firebase` • `Azure`  
 
-- **Gaming** – love exploring UX in game systems  
-- **Drawing & Design** – sketching UI concepts & artwork  
-- **Charisma & Presentation** – I enjoy presenting ideas with flair  
+### 🧰 Concepts  
+`OOP` • `Clean Architecture` • `REST APIs` • `Authentication Systems` • `Real-Time Apps (SignalR)`  
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Featured Projects  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7m3lsh7&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7m3lsh7&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
+### 🗨️ [ChatLink](https://github.com/7m3lsh7/m3lsh)  
+A real-time chat platform built with **ASP.NET Core** and **SignalR**, featuring secure authentication, file sharing, and modern UI.
+
+### 💊 PharmaFlow  
+A blockchain-based drug tracking platform ensuring **medicine authenticity** and **supply chain transparency**.  
+Tech: ASP.NET Core MVC, SQL Server, QR Code System, Firebase.
+
+### 🧠 TskHarmony  
+A productivity and task management app designed for **team collaboration** and **focus enhancement**.  
+Tech: React, Node.js, MongoDB.
 
 ---
 
-## 📫 Let’s Connect
+## 🎓 Education  
+🎓 *Software Development Student*  
+**EVA International Applied Technology School**, Giza, Egypt  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/felopater-remon-3a8631354/)  
-✉️ Email: **felopater.remon2020@gmail.com**
+🧩 *Training & Specializations:*  
+- Web Development (ASP.NET, React, Strapi)  
+- Database Systems (SQL Server, MySQL)  
+- Software Testing & Architecture  
 
 ---
+
+## 🎮 Hobbies & Interests  
+🎨 Drawing & Creative Design  
+🎮 Gaming & Competitive Esports  
+💬 Charisma & Public Speaking  
+🧩 Anime Enthusiast (Vagabond, Attack on Titan, Naruto)  
+
+---
+
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="mailto:felopater.remon2020@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/felopater-remon-3a8631354/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://7m3lsh7.github.io/Portfolio-/index.html"><img src="https://img.shields.io/badge/Portfolio-00C4FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=7m3lsh7&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=7m3lsh7&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7m3lsh7&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## ⚡ Fun Fact  
+🧩 The name **"Vagabond"** represents freedom, creativity, and a journey to mastery — just like my code.  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=7m3lsh7&theme=tokyonight&no-bg=true&no-frame=true&column=6" />
+</p>
+
+---
+
+⭐ **Felopater Remon Samy © 2025**  
+*Powered by Passion & Caffeine ☕🔥*
