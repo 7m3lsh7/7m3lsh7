@@ -1,4 +1,4 @@
-# 👋 Hello, I’m **Felopater Remon Samy**  
+# 👋 Hello, I’m **Felopateer Remon Samy**  
 > *vagabond* — Full-Stack Developer | ASP.NET · C# · React · Strapi  
 
 <div align="center">
